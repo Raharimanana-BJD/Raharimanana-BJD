@@ -7,7 +7,6 @@ Web Developer and Designer
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for front-end development...
 
 * 🌍  I'm based in Madagascar
-* 🖥️  See my portfolio at [My Portfolio](https://brayann-jd.netlify.app)
 * ✉️  You can contact me at [brayjuanico@gmail.com](mailto:brayjuanico@gmail.com)
 * 🧠  I'm learning Nuxt js
 * 🤝  I'm open to collaborating on App menstruation cycles
